@@ -1,5 +1,5 @@
-# Covid-face-mask-detector
-
+# Covid face mask detector
+```
 ## Dependencies :
 Python 3.7
 
@@ -29,3 +29,7 @@ The model is accurate, and since we used the MobileNetV2 architecture,
 
 it’s also efficient and thus making it easier to deploy the model 
 Model accuracy is 0.99
+```
+Author: Dhruval Shah
+
+Email: contact@dhruval.tech
