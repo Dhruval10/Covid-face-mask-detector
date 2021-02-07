@@ -24,4 +24,3 @@ Model accuracy is 0.99
 Author: Dhruval Shah
 
 Email: contact@dhruval.tech
-
