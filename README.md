@@ -17,7 +17,8 @@ All the dependencies and required libraries are included in the file requirement
 
 Features: 
 
-My face mask detector didn't uses any morphed masked images dataset. The model is accurate, and since we used the MobileNetV2 architecture, it’s also efficient and thus making it easier to deploy the model
+My face mask detector didn't uses any morphed masked images dataset. 
+The model is accurate, and since we used the MobileNetV2 architecture, it’s also efficient and thus making it easier to deploy the model
 
 Model accuracy is 0.99
 ```
